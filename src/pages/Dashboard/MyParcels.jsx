@@ -60,7 +60,7 @@ const MyParcels = () => {
       </h2>
 
       {parcels.length === 0 ? (
-        <p className="text-center text-gray-600">No parcels found.</p>
+        <p className="text-center text-gray-600">No parcels found..</p>
       ) : (
         <>
           {/* ✅ Desktop Table */}
