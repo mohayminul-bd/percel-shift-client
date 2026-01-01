@@ -28,7 +28,7 @@ const PaymentHistory = () => {
 
   return (
     <div className="p-6">
-      <h2 className="text-2xl font-bold mb-4">💳 Payment History</h2>
+      <h2 className="text-2xl font-bold mb-4">💳 Payment History..</h2>
 
       {/* Desktop / Laptop Table */}
       <div className="hidden md:block overflow-x-auto">
