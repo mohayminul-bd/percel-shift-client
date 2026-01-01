@@ -80,7 +80,7 @@ const SendParcel = () => {
           delivery_status: "not-collected", // default status
           payments_status: "unpaid",
           created_by: user?.email || "guest",
-          creation_data: new Date().toISOString(), // correct format for DB
+          creation_data: new Date().toISOString(),
         };
 
         console.log("✅ Saved Parcel:", parcelData);
