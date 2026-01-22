@@ -11,7 +11,8 @@ const Footer = () => {
             <h2 className="text-2xl -ml-2 font-bold ">ProFast</h2>
           </div>
           <p className="text-sm mt-3">
-            Empowering web experiences with clean fast and scalable solutions...
+            Empowering web experiences with clean fast and scalable
+            solutions....
           </p>
         </div>
 
