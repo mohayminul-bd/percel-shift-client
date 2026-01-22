@@ -12,7 +12,7 @@ const Footer = () => {
           </div>
           <p className="text-sm mt-3">
             Empowering web experiences with clean fast and scalable
-            solutions.....
+            solutions......
           </p>
         </div>
 
